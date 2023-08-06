@@ -1,6 +1,7 @@
 # Module 6 Challenge: Python API
 <ins>Project Overview</ins>
--
+-----
+
 
 This challenge asked me to use the starter code for WeatherPy and VacationPy and gather certain outputs from two different API calls. Below are some of the outputs called from the WeatherPy code
 ![Figure 2](WeatherPy_VacationPy/output_data/Fig2.png)
