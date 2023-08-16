@@ -1,4 +1,4 @@
-# Module 6 Challenge: Python API
+# Python API
 <ins>Project Overview</ins>
 -----
 
